@@ -34,7 +34,7 @@ console.log(a.filter(x => !b.includes(x)))
 
 Q8.
 * 배열의 합 구하기
-array.reduce (function add(a,b){return a+b;})
+array.reduce (function add(a,b){return a+b;})</br>
 화살표 함수로 변환 -> array.reduce((a,b)=> a+b)
 
 
