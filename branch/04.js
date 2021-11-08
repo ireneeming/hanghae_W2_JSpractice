@@ -8,12 +8,12 @@
 function solution(a, b) {
     let answer = 0;
     if(a<b){
-        for( a; a<=b;a++){
+        for( ; a<=b;a++){
         answer+=a 
         }
         return answer;      
     }else{
-        for( b; b<=a;b++){
+        for( ; b<=a;b++){
         answer+=b 
         }
         return answer;
