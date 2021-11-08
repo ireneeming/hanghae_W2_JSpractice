@@ -23,8 +23,8 @@ Q6.</br>
 * 배열의 교집합, 차집합 구하기</br>
 array.filter() : 
 
-let a = [1, 2, 3]</br>
-let b = [1, 2, 3, 4]
+  let a = [1, 2, 3]</br>
+  let b = [1, 2, 3, 4]
 
 * 두 배열의 교집합 구하기</br>
 console.log(a.filter(x => b.includes(x)))
