@@ -40,3 +40,12 @@ array.reduce (function add(a,b){return a+b;})</br>
 
 
 
+<hr>
+
+Q9.
+substring() 함수로 string 특정 영역 추출하여 replace 시키려고 했다.
+그러나,,,, 문자열에서 특정 인덱스의 문자를 바꿔주는 메소드는 자바스크립트에 없다고 한다,,,
+참고: https://nacastle.tistory.com/44
+
+
+
